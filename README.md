@@ -8,7 +8,12 @@ Meet Daniel, a passionate young coder with an insatiable appetite for learning a
 I am a student of a secondary school in Krakow.
 ### 📨 Contact Me
 Contact me via email: daniel.miziolek1@gmail.com
+### 💻My repositories
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Miziolek&layout=compact&theme=radical)
+
 # Learning
+
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
