@@ -11,6 +11,9 @@ Contact me via email: daniel.miziolek1@gmail.com
 ### 💻My repositories
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Miziolek&layout=compact&theme=radical)
 
+### 📈Activity
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Miziolek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 # Learning
 
 
