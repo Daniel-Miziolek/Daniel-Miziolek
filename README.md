@@ -39,5 +39,8 @@ Contact me via email: daniel.miziolek1@gmail.com
 
 
  [![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)](https://reactjs.org/) [![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)](https://reactnative.dev/)
+ 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 
 [![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
