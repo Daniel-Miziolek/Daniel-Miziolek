@@ -3,7 +3,7 @@
 </h1>
 
 ### 📜About Me
-Meet Daniel, a passionate young coder with an insatiable appetite for learning and a love for programming.
+Meet Daniel, a young coder with an insatiable appetite for learning and a love for programming.
 ### 🌱 Still Learing
 I am a student of a secondary school in Krakow.
 ### 📨 Contact Me
