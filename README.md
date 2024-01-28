@@ -8,10 +8,10 @@ Meet Daniel, a young coder with an insatiable appetite for learning and a love f
 I am a student of a secondary school in Krakow.
 ### 📨 Contact Me
 Contact me via email: daniel.miziolek1@gmail.com
-### 💻 My repositories
+### 📊 Statistics
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Miziolek&layout=compact&theme=radical)
 
-### 📊 Statistics
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Miziolek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Learning
