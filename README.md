@@ -9,10 +9,11 @@ I am a student of a secondary school in Krakow.
 ### 📨 Contact Me
 Contact me via email: daniel.miziolek1@gmail.com
 ### 📊 Statistics
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Miziolek&layout=compact&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Miziolek&layout=compact&theme=tokyonight)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Miziolek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Miziolek&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Learning
 
